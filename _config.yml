@@ -1,7 +1,7 @@
 title: "홍길동"
 description: "Unreal Engine Client Programmer | EVR Studio | ProjectTH"
 url: "https://yourusername.github.io"
-theme: modern-resume-theme
+theme: sproogen/resume-theme
 
 # Profile information
 name: "홍길동"

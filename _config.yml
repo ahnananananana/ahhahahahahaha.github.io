@@ -1,10 +1,10 @@
-title: "È«±æµ¿"
+title: "í™ê¸¸ë™"
 description: "Unreal Engine Client Programmer | EVR Studio | ProjectTH"
 url: "https://yourusername.github.io"
 theme: modern-resume-theme
 
 # Profile information
-name: "È«±æµ¿"
+name: "í™ê¸¸ë™"
 email: "hong@example.com"
 github_username: "yourusername"
 linkedin_username: "yourlinkedin"
@@ -16,17 +16,17 @@ experience:
   - company: "EVR Studio"
     position: "Client Programmer"
     duration: "Jan 2023 - Present"
-    summary: "ProjectTH °³¹ß¿¡ Âü¿©..."
+    summary: "ProjectTH ê°œë°œì— ì°¸ì—¬..."
 
 # Projects
 projects:
   - name: "ProjectTH"
     link: "https://evrstudio.com/projectth"
-    description: "Â÷¼¼´ë UE ±â¹İÀÇ Æ÷½ºÆ® ¾ÆÆ÷Ä®¸³½º °ÔÀÓ"
+    description: "ì°¨ì„¸ëŒ€ UE ê¸°ë°˜ì˜ í¬ìŠ¤íŠ¸ ì•„í¬ì¹¼ë¦½ìŠ¤ ê²Œì„"
 
 # Blog
 blog:
-  - title: "Unreal Engine¿¡¼­ Dynamic Foliage Ã³¸®"
+  - title: "Unreal Engineì—ì„œ Dynamic Foliage ì²˜ë¦¬"
     link: "https://yourusername.github.io/blog/ue-foliage"
-  - title: "FFmpegÀ» ÀÌ¿ëÇÑ ÇÁ·¹ÀÓ ºñ±³ µµ±¸ ¸¸µé±â"
+  - title: "FFmpegì„ ì´ìš©í•œ í”„ë ˆì„ ë¹„êµ ë„êµ¬ ë§Œë“¤ê¸°"
     link: "https://yourusername.github.io/blog/ffmpeg-diff-tool"

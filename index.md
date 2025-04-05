@@ -1,13 +1,9 @@
 ---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
 layout: default
-title: Home
 ---
-
-<h1>블로그 목록</h1>
-<ul>
-  {% for post in paginator.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> <span>({{ post.date | date: "%Y-%m-%d" }})</span>
-    </li>
-  {% endfor %}
-</ul>
